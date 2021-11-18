@@ -1,0 +1,10 @@
+The Band
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+1.Phân tích
+	1.Header
+	2.Slider
+	3.Content
+	4.Footer
+2.Xây dựng base(xây móng)
+3.Xây dựng từng phần theo phân tích
+4.Hoàn Thiện
